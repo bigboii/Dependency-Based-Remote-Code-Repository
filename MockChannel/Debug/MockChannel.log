@@ -1,0 +1,15 @@
+﻿  MockChannel.cpp
+  Cpp11-BlockingQueue.cpp
+  XmlParser.cpp
+  XmlElement.cpp
+  xmlElementParts.cpp
+  Tokenizer.cpp
+  XmlDocument.cpp
+  Utilities.cpp
+  Sockets.cpp
+  Logger.cpp
+  HttpMessage.cpp
+  FileSystem.cpp
+  Generating Code...
+     Creating library C:\Users\YQ\Desktop\CSE687_OOD\Projects\CommPrototype\Debug\MockChannel.lib and object C:\Users\YQ\Desktop\CSE687_OOD\Projects\CommPrototype\Debug\MockChannel.exp
+  MockChannel.vcxproj -> C:\Users\YQ\Desktop\CSE687_OOD\Projects\CommPrototype\Debug\MockChannel.dll
