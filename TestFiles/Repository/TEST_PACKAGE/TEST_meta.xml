@@ -1,0 +1,20 @@
+
+  <metadata>
+    <name>
+      TEST
+    </name>
+    <deps>
+      <dep>
+        Logger.cpp
+      </dep>
+      <dep>
+        Test.cpp
+      </dep>
+    </deps>
+    <author>
+      Young Kyu Kim
+    </author>
+    <closed>
+      false
+    </closed>
+  </metadata>
